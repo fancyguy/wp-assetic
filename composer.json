@@ -1,0 +1,14 @@
+{
+    "name": "fancyguy/wp-assetic",
+    "description": "Assetic support for WordPress",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Buzonas",
+            "email": "steve@fancyguy.com"
+        }
+    ],
+    "require": {
+        "kriswallsmith/assetic": "~1.2"
+    }
+}
