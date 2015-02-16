@@ -1,6 +1,7 @@
 {
     "name": "fancyguy/wp-assetic",
     "description": "Assetic support for WordPress",
+    "type": "wordpress-plugin",
     "license": "MIT",
     "authors": [
         {
